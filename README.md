@@ -9,9 +9,9 @@ This project is a demo weather application I developed when I was learning Flutt
 The idea originally came from [Angela Yu's Flutter Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/). UI design inspired by [Weather App](https://dribbble.com/shots/11474539-Weather-App).
 
 ## Resources
-- [Icon set: Free animated SVG weather icons](https://www.amcharts.com/free-animated-svg-weather-icons/)
-- [Launcher icon: Weather Icon PNG Image](https://www.pngitem.com/middle/hToTRob_weather-icon-png-image-weather-app-icon-transparent/)
-- [Weather data: OpenWeatherMap](https://openweathermap.org/api/)
+- Icon set: [Free animated SVG weather icons](https://www.amcharts.com/free-animated-svg-weather-icons/)
+- Launcher icon: [Weather Icon PNG Image](https://www.pngitem.com/middle/hToTRob_weather-icon-png-image-weather-app-icon-transparent/)
+- Weather data: [OpenWeatherMap](https://openweathermap.org/api/)
 
 ## Screenshots
 <p>
