@@ -1,16 +1,21 @@
-# flutter_app
+# WeatherCast
 
-A new Flutter application.
+A weather forecast application made with Flutter.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project is a demo waether application I developed when I was learning Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+The idea originally came from [Angela Yu's Flutter Course](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Resources
+- [Icon set: Free animated SVG weather icons](https://www.amcharts.com/free-animated-svg-weather-icons/)
+- [Launcher icon: Weather Icon PNG Image](https://www.pngitem.com/middle/hToTRob_weather-icon-png-image-weather-app-icon-transparent/)
+- [Weather data: OpenWeatherMap](https://openweathermap.org/api/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<p>
+<img src="/screenshots/Screenshot_1.jpg" alt="a" width="300"/>
+<img src="/screenshots/Screenshot_2.jpg" alt="a" width="300"/>
+<img src="/screenshots/Screenshot_3.jpg" alt="a" width="300"/>
+</p>
