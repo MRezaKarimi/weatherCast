@@ -15,7 +15,7 @@ The idea originally came from [Angela Yu's Flutter Course](https://www.udemy.com
 
 ## Screenshots
 <p>
-<img src="/screenshots/Screenshot_1.jpg" alt="a" width="300"/>
-<img src="/screenshots/Screenshot_2.jpg" alt="a" width="300"/>
-<img src="/screenshots/Screenshot_3.jpg" alt="a" width="300"/>
+<img src="/screenshots/Screenshot_1.jpg" alt="screenshot 1" width="250"/>
+<img src="/screenshots/Screenshot_2.jpg" alt="screenshot 2" width="250"/>
+<img src="/screenshots/Screenshot_3.jpg" alt="screenshot 3" width="250"/>
 </p>
