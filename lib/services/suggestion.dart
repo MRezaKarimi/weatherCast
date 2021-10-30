@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class SuggestionHelper {
-  final String appID = 'f353367be03cf8e65e0b5e9e881d6953';
+  final String appID = '[YOUR APPID]';
   final String api = 'http://api.openweathermap.org/geo/1.0/direct?limit=5';
 
   Future<List<CityCoordinates>> getSuggestionList(String cityName) async {
